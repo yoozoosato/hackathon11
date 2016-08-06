@@ -1,0 +1,12 @@
+ID,Name_JA,Name_ZH,Name_EN,Name_FR,Attack,Weight,Value,Consumable?
+1,檜の棒,柏樹的酒吧,Bar of cypress,Bar de cyprès,1,0.5,1,
+2,竹槍,竹矛,bamboo spear,bambou lance,1,0.5,2,
+3,棍棒,棍棒,club,club,2,1,4,
+4,青銅の剣,青銅劍,Sword of bronze,Épée de bronze,4,1.5,6,
+5,鉄の剣,鐵之劍,Sword of iron,Épée de fer,5,2,8,
+6,鋼の剣,鋼之劍,Sword of steel,Epée d'acier,7,3,12,
+7,セラミックの剣,陶瓷劍,Sword of ceramic,Épée de céramique,8,2,19,
+8,オリハルコンの剣,星隕石劍,Orichalcum sword,épée orichalque,9,4,40,
+9,ヌカランチャー,布蘭發射,Bran launcher,Bran lanceur,24,10,99,
+10,手榴弾,手榴彈,Grenade,Grenade,12,1,7,Yes
+11,サブマシンガン,衝鋒槍,submachine gun,mitraillette,7,5,10,
