@@ -7,5 +7,5 @@
     $data = file_get_contents($filepath);
     file_put_contents('./download.csv', $data);
 
-    exec('git add ./download.csv && git commit -m "auto commit by Google Apps." && git push origin master');
+    system('git add ./download.csv && git commit -m "auto commit by Google Apps." && git push origin master');
   }
